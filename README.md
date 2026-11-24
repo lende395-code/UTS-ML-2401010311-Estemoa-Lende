@@ -26,12 +26,11 @@ UTS-ML-2401010311-Estemoa Lende/
 ├── README.md
 ├── notebook/UTS_ML_2401010311_Estemoa Lende.ipynb
 ├── data/Data_Tanaman_Padi_Indonesia_2018-2023_Erlin_New.csv
-└── reports/   (grafik utama dan slide presentasi)
 ```
 
 ## Cara menjalankan
 1. Buka notebook di Google Colab.
-2. Jalankan **Runtime -> Run all**. Bila berkas CSV tidak ditemukan di folder, notebook akan meminta unggah berkas tersebut.
+2. Jalankan **Runtime -> Run all**. 
 3. Seluruh output (grafik dan tabel) tampil di notebook.
 
 ## Pernyataan Penggunaan AI
